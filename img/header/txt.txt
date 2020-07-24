@@ -1,0 +1,67 @@
+<header class="header">
+    <div class="header__wrapper">
+        <div class="container">
+            <div class="header__nav">
+                <div class="logo">
+                    <img src="images/header/logo.svg" alt="" class="logo__item">
+                </div>
+                <nav class="nav">
+                    <div class="nav__item"><a href="#" class="nav__item-link">Клиника</a></div>
+                    <div class="nav__item"><a href="#" class="nav__item-link">Процедура</a></div>
+                    <div class="nav__item"><a href="#" class="nav__item-link">Цены</a></div>
+                    <div class="nav__item"><a href="#" class="nav__item-link">Организация</a></div>
+                    <div class="nav__item"><a href="#" class="nav__item-link">Контакты</a></div>
+                </nav>
+                <div class="contact">
+                    <a href="tel:+79587569814" class="contact__tel">+7 (958) 756-98-14</a>
+                    <div class="contact__social">
+                        <span class="contact__social-text">Или пишите</span>
+                        <a href="#" class="contact__social-link"><img src="images/header/whatsapp.svg" alt=""
+                                class="contact__social-link__image"></a>
+                        <a href="#" class="contact__social-link"><img src="images/header/telegram.svg" alt=""
+                                class="contact__social-link__image"></a>
+                        <a href="#" class="contact__social-link"><img src="images/header/vk.svg" alt=""
+                                class="contact__social-link__image"></a>
+                        <a href="#" class="contact__social-link"><img src="images/header/viber.svg" alt=""
+                                class="contact__social-link__image"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="header__main">
+                <div class="header__suptitle">
+                    Пересадка волос в Москве
+                </div>
+                <h1 class="header__title">
+                    Трансплантация волос
+                    в одной из лучших клиник Турции
+                    Avrasya Hastanesi
+                </h1>
+                <ul class="header__items">
+                    <ol class="header__item">
+                        <img class="header__item-img" src="images/header/header-item-1.svg" alt="">
+                        <p class="header__item-text">
+                            Стоимость/время:
+                            от 50 000₽ / 3 дня
+                        </p>
+                    </ol>
+                    <ol class="header__item">
+                        <img class="header__item-img" src="images/header/header-item-2.svg" alt="">
+                        <p class="header__item-text">
+                            Переводчик, проживание
+                            и сопровождение
+                        </p>
+                    </ol>
+                    <ol class="header__item">
+                        <img class="header__item-img" src="images/header/header-item-3.svg" alt="">
+                        <p class="header__item-text">
+                            Пожизненная гарантия
+                            на пересадку
+                        </p>
+                    </ol>
+                </ul>
+                <a href="#" class="header__button">Узнать больше</a>
+            </div>
+        </div>
+
+    </div>
+</header>
