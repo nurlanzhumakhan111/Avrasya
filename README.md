@@ -2,4 +2,4 @@
 
 Сайт без оптимизации.
 
-GitHub Pages: https://nurlanzhumakhan111.github.io/Avrasya/
+GitHub Pages: https://zhumakhann.github.io/Avrasya/
